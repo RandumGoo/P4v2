@@ -223,7 +223,7 @@ html {
 	background-color: white;
 	max-width: 390px;
 	width: 30%;
-	height: 337px;
+	/*height: 337px;*/
 	padding: 1em;
 	display: flex;
 	flex-direction: column;
@@ -290,3 +290,5 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+
+
